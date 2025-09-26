@@ -46,5 +46,3 @@ This project is great for practicing:
 This project is open-source and available under the [MIT License](LICENSE).
 Have fun unscrambling and keep your brain buzzing!
 
-
-Let me know if you'd like a version tailored for GitHub Pages or with badges and visuals.
